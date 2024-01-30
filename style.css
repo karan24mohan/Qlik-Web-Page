@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Sen:wght@400;500;600;700;800&display=swap");
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: "Sen", sans-serif;
+}
+
+/* h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 0% !important;
+} */
+
+.custom-width {
+  max-width: 1520px;
+  margin: auto;
+  padding: 0 54px;
+  width: 100%;
+}
+
+.colorBlue {
+  color: #0080ff;
+}
+
+.heading {
+  font-size: 46px;
+  font-weight: 900;
+  line-height: 57px;
+  letter-spacing: 0em;
+}
+
+.subHeading {
+  font-size: 38px;
+  font-weight: 900;
+  line-height: 47px;
+  letter-spacing: 0em;
+}
+
+.subsubHeading {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 31px;
+  letter-spacing: 0em;
+}
+
+.heroPara {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+}
+
+.para {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+}
+
+.custom_button {
+  border-radius: 51px;
+  background: #0080ff;
+  border: none;
+  outline: none;
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  width: 195px;
+  height: 50px;
+}
+
+.arrow {
+  width: 44px;
+  height: 44px;
+  background-color: #11133b;
+  border-radius: 50%;
+}
+
+.hero-section {
+  /* height: 100vh; */
+  background-color: #080a29;
+}
+
+.bigdata-services {
+  background-color: #f9fbff;
+}
